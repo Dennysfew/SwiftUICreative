@@ -13,7 +13,7 @@ A SwiftUI example showcasing text animations with custom transitions and effects
 - Easy-to-use modular components for adding animations to your projects.
 
 ## Demo
-![Demo](../media/demo.gif)
+![Demo](../../media/demo.gif)
 
 ## Usage:
 1. Copy all files from this folder into your SwiftUI project.
